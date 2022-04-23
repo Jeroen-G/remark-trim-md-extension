@@ -14,6 +14,7 @@
     "remark-plugin"
   ],
   "author": "Jeroen",
+  "homepage": "https://github.com/Jeroen-G/remark-trim-md-extension",
   "license": "MIT",
   "dependencies": {
     "unist-util-visit": "^2.0.3"
