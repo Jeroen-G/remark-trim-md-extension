@@ -1,0 +1,21 @@
+{
+  "name": "remark-trim-md-extension",
+  "version": "1.0.0",
+  "description": "Remove .md extensions in your URLs.",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "remark",
+    "markdown",
+    "extension",
+    "remark-plugin"
+  ],
+  "author": "Jeroen",
+  "license": "MIT",
+  "dependencies": {
+    "unist-util-visit": "^2.0.3"
+  }
+}
