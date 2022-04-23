@@ -1,4 +1,6 @@
 # remark-trim-md-extension
+[![npm version](https://badge.fury.io/js/remark-trim-md-extension.svg)](https://www.npmjs.com/package/remark-trim-md-extension)
+
 [Remark](https://github.com/remarkjs/remark) plugin to remove the .md extension when you have links to other md files. This is for example useful when you use markdown files as pages in NextJS.
 
 ## Installation
